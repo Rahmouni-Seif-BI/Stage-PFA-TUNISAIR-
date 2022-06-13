@@ -4,10 +4,10 @@ I developed a dynamic website in order to provide flight crew with dynamic inter
 ![](login.png) 
 
 # Profile Page 
-![](profil.png) 
+![](profile.png) 
 
 # Visite Friend Profil 
-![](visitprofil.png) 
+![](visitprofile.png) 
 
 
 # Friend List page
